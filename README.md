@@ -19,7 +19,7 @@ yarn dev
 
 ## 地址
 
-[vue 单页模板](http://vhistory.bigqianduan.top)
+[vue 路由模式](http://vhistory.bigqianduan.top)
 
 #### License
 
